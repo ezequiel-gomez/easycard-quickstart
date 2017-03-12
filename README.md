@@ -1,5 +1,5 @@
 # easycard-quickstart
-Estructura base de un proyecto de EasyCard.js
+Proyecto quickstart de EasyCard.js que contiene una estructura base para comenzar un juego desde cero.
 
 Instalación
 
