@@ -1,0 +1,10 @@
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+#chat-text {
+  overflow: auto;
+  max-height: 400px;
+}
+
